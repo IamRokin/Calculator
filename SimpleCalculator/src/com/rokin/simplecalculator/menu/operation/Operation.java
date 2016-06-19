@@ -34,8 +34,7 @@ public class Operation {
     }
     
     
-    public double power(double firstNumber, double secondNumber)
-    {
+    public double power(double firstNumber, double secondNumber){
         return Math.pow(firstNumber, firstNumber);
     }
     
